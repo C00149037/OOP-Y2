@@ -2,7 +2,7 @@ package Lab12b;
 
 public class student extends Person {
 	
-	private int numCourses;
+	//private int numCourses;
 	private String[] courses = new String[5];
 	private int[] grades = new int[2];
 	

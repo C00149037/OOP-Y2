@@ -25,7 +25,6 @@ public class driver {
 			{ 
 				if(firstOffice == false)
 				{
-					System.out.println("Hello");
 					office o1 = new office();
 					firstOffice = true;
 				}
@@ -39,7 +38,7 @@ public class driver {
 			}
 			else if(option == 3)
 			{
-				exit = true;
+				
 			}
 			else if(option == 4)
 			{
